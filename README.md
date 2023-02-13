@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <div align="center"> <img src="https://metrics.lecoq.io/cat711?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=cat711" /> </div>
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=cat711" /> </div>
-<div align="center"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-Python-oringe?style=flat-square&logo=python" /> </div>
+<div align="center"> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-Python-oringe?style=flat-square&logo=python" />  </div>
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=cat711" /> </div>
 
